@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG learning" duration-ms="12679" started-at="2015-10-21T16:16:27Z" finished-at="2015-10-21T16:16:40Z">
+    <groups>
+    </groups>
+    <test name="running group" duration-ms="12679" started-at="2015-10-21T16:16:27Z" finished-at="2015-10-21T16:16:40Z">
+      <class name="fbloginTest">
+        <test-method status="PASS" signature="dologin()[pri:0, instance:fbloginTest@e580929]" name="dologin" duration-ms="12610" started-at="2015-10-21T09:16:27Z" finished-at="2015-10-21T09:16:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+      </class> <!-- fbloginTest -->
+    </test> <!-- running group -->
+  </suite> <!-- TestNG learning -->
+</testng-results>
