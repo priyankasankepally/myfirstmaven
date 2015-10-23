@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name = "TestNG learning">
+     <listeners>
+
+    <listener class-name="Errorcollector.TestListenerAdapter" />
+  </listeners>
+    
 <test name = "running group">
 
 <classes>
